@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Questions
+    url: https://github.com/yourusername/Operating-Systems-Lab-SEM5/discussions
+    about: Please use GitHub Discussions for questions.

@@ -31,13 +31,59 @@
 *.out
 *.app
 
-# Text files
-*.docx
-*.pdf
-*.txt
-*.vscode
+# IDEs and Editors
+.vscode/
+.vs/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
 
-# Picture files
-*.jpeg
-*.png
-*.jpg
+# Visual Studio Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# Compiled binaries
+a.out
+*.x
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# OS Generated files
+Thumbs.db
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.cache
+
+# Documentation (excluding important docs)
+*.docx
+*.doc
+*.pdf
+!README.pdf
+
+# Logs
+*.log
+
+# Archives
+*.zip
+*.tar
+*.gz
+*.rar
+*.7z
